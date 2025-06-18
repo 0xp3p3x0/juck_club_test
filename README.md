@@ -30,32 +30,20 @@ npm run setup-tables
 ```bash
 # Run all tests
 npm test
+```
 
-# Project Structure
+## Project Structure
 
 ```
 src/
-
 ├── task1/
-
 │   ├── getCurrentBalance.ts
-
 │   └── __tests__/
-
 ├── task2/
-
 │   ├── transact.ts
-
 │   └── __tests__/
-
-├── types/
-
-├── config/
-
 └── __tests__/
-
     └── functional.test.ts
-
 ```
 
 ## Usage Examples
