@@ -37,14 +37,23 @@ npm test
 src/
 
 ├── task1/
+
 │   ├── getCurrentBalance.ts
+
 │   └── __tests__/
+
 ├── task2/
+
 │   ├── transact.ts
+
 │   └── __tests__/
+
 ├── types/
+
 ├── config/
+
 └── __tests__/
+
     └── functional.test.ts
 
 ```
